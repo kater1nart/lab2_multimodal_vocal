@@ -1,0 +1,13 @@
+period,model,vs,delta,perm_p
+2005-2009,late_fusion,only_img,-0.0617,0.0714
+2005-2009,late_fusion,only_ts,0.0852,0.0276
+2005-2009,stacking,only_img,-0.0953,0.001
+2005-2009,stacking,only_ts,0.0516,0.2304
+2005-2009,early_fusion,only_img,-0.1193,0.014
+2005-2009,early_fusion,only_ts,0.0277,0.0688
+2010-2017,late_fusion,only_img,0.0273,0.4427
+2010-2017,late_fusion,only_ts,0.0447,0.0352
+2010-2017,stacking,only_img,0.027,0.4661
+2010-2017,stacking,only_ts,0.0444,0.0588
+2010-2017,early_fusion,only_img,0.0148,0.7255
+2010-2017,early_fusion,only_ts,0.0322,0.1092

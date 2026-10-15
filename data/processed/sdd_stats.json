@@ -1,0 +1,21 @@
+{
+  "tracks_total": 706,
+  "captions_total": 1106,
+  "no_vocal_info": 362,
+  "missing_meta": 0,
+  "labeled_tracks": 344,
+  "class_counts": {
+    "male": 136,
+    "instrumental": 128,
+    "female": 43,
+    "group": 37
+  },
+  "release_year": {
+    "min": 2005.0,
+    "25%": 2008.0,
+    "50%": 2010.0,
+    "75%": 2014.0,
+    "max": 2017.0
+  },
+  "unique_artists": 119
+}

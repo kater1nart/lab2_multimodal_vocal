@@ -1,0 +1,7 @@
+.env
+.venv/
+data/raw/sdd/*.parquet
+data/processed/sdd_spec/
+__pycache__/
+*.pyc
+.DS_Store

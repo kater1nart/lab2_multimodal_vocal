@@ -1,0 +1,60 @@
+{
+  "seed": 42,
+  "models": {
+    "clip_zeroshot": {
+      "type": "CLIP ViT-B/32 openai, zero-shot, logit_scale=100",
+      "prompts": "см. clip_embed.py"
+    },
+    "uni_text": {
+      "type": "LogisticRegression(balanced)",
+      "C": 10,
+      "input": "text"
+    },
+    "uni_ts": {
+      "type": "LogisticRegression(balanced)",
+      "C": 10,
+      "input": "ts"
+    },
+    "uni_img": {
+      "type": "LogisticRegression(balanced)",
+      "C": 10,
+      "input": "img"
+    },
+    "early_fusion": {
+      "type": "LogReg на конкатенации [SVD128(text), ts120, CLIP512]",
+      "C": 0.03
+    },
+    "late_fusion": {
+      "type": "взвешенное среднее вероятностей unimodal",
+      "weights_val": {
+        "text": 0.1,
+        "ts": 0.4,
+        "img": 0.5
+      }
+    },
+    "stacking": {
+      "type": "LogReg на OOF-вероятностях 3 unimodal (GroupKFold=5 по артистам)"
+    },
+    "gated_mlp": {
+      "type": "GatedFusion (text MLP + CLIP MLP + BiGRU по ряду, softmax-гейт)",
+      "hidden": 128,
+      "modality_dropout": 0.3,
+      "epochs": 15,
+      "val_macro_f1": 0.5949945999361115,
+      "optimizer": "AdamW lr=1e-3 wd=1e-3",
+      "batch": 128
+    }
+  },
+  "latency_s_per_item_inference": {
+    "only_text": 7.210109116116352e-07,
+    "only_ts": 1.7814668069886205e-07,
+    "only_img": 2.2307631748426628e-07,
+    "gated_mlp": 1.7264206138369327e-05
+  },
+  "late_fusion_weights": {
+    "text": 0.1,
+    "ts": 0.4,
+    "img": 0.5
+  },
+  "best_unimodal_mtat": "only_ts"
+}

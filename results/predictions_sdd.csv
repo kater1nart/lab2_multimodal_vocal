@@ -1,0 +1,282 @@
+id,label,text,release_year,clip_zeroshot,only_text,only_ts,only_img,early_fusion,late_fusion,stacking,gated_mlp
+5339,instrumental,Silence | L'autre endroit | Cellule,2006,female,female,male,instrumental,male,male,instrumental,male
+5341,instrumental,Silence | L'autre endroit | Stop!,2006,male,instrumental,female,instrumental,female,instrumental,instrumental,female
+5344,instrumental,Silence | L'autre endroit | Sale,2006,male,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+5346,group,Silence | L'autre endroit | Larmes,2006,female,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+6007,male,ZAMALA | Requiem pour un split | 25 Bombes,2005,female,female,female,female,female,female,female,instrumental
+6008,male,ZAMALA | Requiem pour un split | Earthmen,2005,male,female,male,male,male,male,female,instrumental
+6719,male,Steven Dunston | Hymns About Her (advance) | Northern Star,2006,female,instrumental,male,male,male,male,male,instrumental
+7096,female,adel | chansons d'après midi | Un type banal,2006,female,instrumental,instrumental,male,instrumental,male,male,female
+7247,instrumental,FrenchLAB (French Laboratory Of) | Mysterious Sounds | Rêves About U,2006,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+7257,instrumental,FrenchLAB (French Laboratory Of) | Mysterious Sounds | Nous te retrouverons,2006,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,female
+7363,male,Steven Dunston | To Get Home Before Night Comes | Lost in My Head,2006,female,instrumental,group,instrumental,female,female,female,instrumental
+11751,instrumental,Tom La Meche | Blog | Urban,2006,male,male,female,instrumental,female,female,instrumental,instrumental
+11841,instrumental,Fadièse | Pomponette | musiquette,2006,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+12301,instrumental,Trafic de Blues | Fin de cavale | Steady B.,2006,female,instrumental,male,instrumental,instrumental,instrumental,instrumental,instrumental
+12305,male,Trafic de Blues | Fin de cavale | Sweet swing,2006,female,instrumental,instrumental,male,instrumental,instrumental,instrumental,male
+22063,male,David TMX | c'est du lourd | intro,2006,female,instrumental,male,male,male,male,male,male
+24018,instrumental,Cyborgjeff | Just a Smile (2006) | No more virus in heaven,2006,female,female,instrumental,instrumental,instrumental,instrumental,instrumental,female
+24837,instrumental,Real Rice | Un arrière-goût de cannelle | Illusions - version pizzicato,2006,male,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+25559,instrumental,Cool Cavemen | Fusion | Morning Fog over the Troubled Waters of my Awakening Mind,2006,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,male
+33323,instrumental,Traffic In My Head | CDN | Over and Over,2007,female,instrumental,female,instrumental,female,female,female,female
+33324,instrumental,Traffic In My Head | CDN | Walk to The Stars,2007,female,instrumental,female,instrumental,female,female,female,female
+35349,male,amélie | be low | do it over,2007,female,female,male,instrumental,male,female,female,male
+43881,male,STEEP | Your Reality | Your Reality,2007,female,instrumental,female,male,female,female,female,female
+43886,male,STEEP | Your Reality | Let Me Go,2007,female,instrumental,female,male,female,female,female,female
+43984,male,The Old Dada Weatherman  | Portraits of Happy Times | From Blake to Black,2007,female,male,female,male,male,male,male,female
+43986,male,The Old Dada Weatherman  | Portraits of Happy Times | Old Cowboy,2007,female,male,female,male,female,female,female,female
+43987,male,The Old Dada Weatherman  | Portraits of Happy Times | Moral Celebration,2007,female,male,female,male,female,male,female,female
+43990,male,The Old Dada Weatherman  | Portraits of Happy Times | Snow,2007,female,male,female,female,female,female,male,female
+48719,instrumental,Tom La Meche | Où se cachent... | Pantin des cendres,2007,female,instrumental,female,instrumental,female,female,female,instrumental
+48721,instrumental,Tom La Meche | Où se cachent... | 5 mai à 17h,2007,female,instrumental,female,instrumental,female,instrumental,female,female
+66945,male,Fresh Body Shop | Orgamilk | fluid,2007,female,instrumental,male,male,male,male,male,instrumental
+66949,male,Fresh Body Shop | Orgamilk | guilty crowds,2007,female,instrumental,female,instrumental,female,instrumental,female,female
+83867,female,Kalliopi | Kalliopi | Andorinha,2007,female,instrumental,female,female,female,female,female,female
+89805,male,king before daylight | king before daylight   -1- | another day,2007,female,instrumental,male,male,female,male,male,female
+94736,male,Fresh Body Shop | Tasteless | all you've never felt,2007,female,female,instrumental,male,instrumental,male,female,instrumental
+95581,instrumental,Renich | Nocturnal Overtures | A lo largo,2007,female,instrumental,female,instrumental,female,instrumental,female,female
+103089,male,David TMX | K.C.D et plus si affinités | Plus jamais en Bretagne,2007,group,instrumental,male,male,male,male,male,male
+103333,instrumental,Brokenkites | Origami Shadows (Soundtrack) | First Stage Prototype,2007,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+108303,instrumental,Screw-Jay | Patterns and Lines | Behind the line,2007,male,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+111962,group,Tet production | absolute ear | absolute ear - l'appel des loups,2007,female,instrumental,female,female,female,female,female,female
+119345,instrumental,Grünemusik | Feline Figures Dance In The Forest | The Triplet Song,2007,female,male,female,instrumental,female,instrumental,instrumental,female
+135657,male,Jemex | From There to Here | Square 1 (ft. Derrius Dean),2008,female,instrumental,male,male,male,male,male,female
+135660,group,Jemex | From There to Here |  Over Me,2008,female,instrumental,female,male,female,female,female,female
+135661,male,Jemex | From There to Here | El Fin (ft. Derrius Dean),2008,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,female
+145366,male,Löhstana David | On ne pêche pas pour attraper des poissons | Question de point de vue,2008,female,instrumental,instrumental,male,instrumental,male,female,instrumental
+145371,male,Löhstana David | On ne pêche pas pour attraper des poissons | Même juste en rêve une dernière fois,2008,female,female,female,male,female,female,female,female
+145945,male,Major Major | Major Major | Chinese Drop,2008,female,instrumental,male,male,male,male,male,instrumental
+145949,male,Major Major | Major Major | Satellite,2008,female,instrumental,male,male,male,male,male,male
+145958,male,Major Major | Major Major | Get It On,2008,group,instrumental,female,male,female,male,male,female
+145964,male,Major Major | Major Major | No Rhyme,2008,female,instrumental,male,male,male,male,male,female
+145968,male,Major Major | Major Major | Make It New,2008,female,instrumental,instrumental,male,female,male,male,female
+172015,male,Jonay | The Darker The Sky Is The Brighter The Stars Shine | Bad As Jonay,2008,male,male,female,male,female,male,male,female
+172018,group,Jonay | The Darker The Sky Is The Brighter The Stars Shine | Want You To Know,2008,female,male,female,female,female,female,male,female
+172021,male,Jonay | The Darker The Sky Is The Brighter The Stars Shine | Whatcha Wanna Do,2008,male,instrumental,female,female,female,female,female,female
+172031,group,Jonay | The Darker The Sky Is The Brighter The Stars Shine | For Your Love (feat. Rashani),2008,female,instrumental,female,female,female,female,female,female
+175043,group,Löhstana David | Les Yeux Dans Les Etoiles | Vie,2008,female,instrumental,instrumental,female,instrumental,instrumental,instrumental,instrumental
+181452,male,Löhstana David | Le Moins Pire (avant la suite) | Le petit guignol,2008,female,instrumental,male,male,male,male,male,male
+181523,instrumental,-Maze- | Blue Heaven | Heritage,2008,female,instrumental,female,instrumental,female,female,female,male
+181803,male,Löhstana David | Le Moins Pire (avant la suite) | Madame,2008,female,instrumental,female,instrumental,female,female,female,instrumental
+187621,instrumental,Chewbaska | Chewbaska - The Shape of Ska to come | La ultima suerte,2008,female,male,female,instrumental,female,instrumental,instrumental,female
+190869,group,Cartel | The Lost Tracks | Pourin Moe by The East Side Hustlas,2008,female,instrumental,female,female,instrumental,female,female,male
+191044,instrumental,Traffic In My Head | Angels Voice (single) | Angels Voice,2008,female,female,female,instrumental,female,instrumental,female,instrumental
+202741,male,The Verandas | What people do | What people do,2008,female,male,female,male,male,male,male,female
+206578,male,Crete Boom | Ne'er do well | Flatline,2008,female,instrumental,female,male,female,female,female,female
+206596,group,Crete Boom | Ne'er do well | Sleeper,2008,male,male,female,male,female,female,male,female
+208937,instrumental,DANIEL H | Cassendra | Magic circle,2008,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+219026,instrumental,paniq | Advertising for Metaphysics | Valhalla (Der Gedanke und das Meer),2008,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+236348,female,Grace Valhalla | SummerCamp | All my life,2008,female,instrumental,instrumental,female,instrumental,instrumental,instrumental,female
+238099,instrumental,JT Bruce | Universica | Rigel,2008,male,instrumental,male,instrumental,male,instrumental,instrumental,male
+242349,male,The Dada Weatherman | The Green Waltz | Melancholy for Eternity,2008,male,instrumental,female,male,male,male,male,female
+242384,male,The Dada Weatherman | The Green Waltz | Painted Dream,2008,female,instrumental,female,male,female,female,female,female
+242410,male,The Dada Weatherman | The Green Waltz | Statues,2008,female,instrumental,male,female,male,male,instrumental,instrumental
+242640,group,The Dada Weatherman | The Green Waltz | Flying on a Cloud,2008,female,instrumental,female,male,female,male,female,female
+243734,male,The Dada Weatherman | The Green Waltz | WorldWide Sight,2008,male,instrumental,female,male,female,male,male,female
+244237,male,The Dada Weatherman | The Green Waltz | Viper's Dream,2008,female,instrumental,instrumental,male,instrumental,instrumental,male,female
+260839,group,Dazie Mae | Dazie Mae (demo) | Drink (till the day that i die),2008,female,instrumental,male,male,female,male,male,female
+261271,female,Dazie Mae | Dazie Mae (demo) | Misbehaved,2008,female,instrumental,male,male,male,male,male,female
+296237,instrumental,Pianochocolate | Morning Coffee | Les souvenirs,2009,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,female
+304772,male,Erizo | =Humano | Bajando El Rio,2009,female,instrumental,female,male,female,male,female,female
+304775,group,Erizo | =Humano | Bossamar,2009,female,instrumental,female,male,female,female,female,female
+305160,male,Erizo | =Humano | Reflejos,2009,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+305163,male,Erizo | =Humano | Es Vedra,2009,female,instrumental,female,male,female,female,female,female
+309861,male,Gerry Davis | Memories | Memories,2009,female,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+323090,male,"Crete Boom | Ech man for hymself, ther is noon oother. | Put up a resistance",2009,female,instrumental,female,female,female,female,female,male
+329515,female,WEXIN | MOVE 2 THE BEAT - Part 1 | Move 2 The Beat,2009,female,instrumental,instrumental,female,instrumental,female,female,female
+339422,male,Hangman | THE GALLOWS | Last Breath,2009,male,instrumental,instrumental,group,instrumental,instrumental,instrumental,male
+345155,male,Lorenzo's Music | BAZAR | Lorenzo's Music - oh oh oh,2009,female,instrumental,male,male,male,male,male,female
+347879,male,Lorenzo's Music | Lorenzo's Music EP | One Time,2009,female,female,male,male,female,male,female,male
+354778,group,Jonay | Skydiving | Skydiving (feat. Jasmine Kara),2009,female,instrumental,female,male,female,female,female,female
+356420,male,Lorenzo's Music | Solamente Tres Polabras | Make It Clean,2009,male,instrumental,female,male,female,male,male,female
+356441,male,Lorenzo's Music | Solamente Tres Polabras | Down The Stairway,2009,female,instrumental,male,male,male,male,male,female
+357192,male,ProyectoT | ProyectoT | Latino Soy,2009,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,female
+357210,male,ProyectoT | ProyectoT | Si Te Arrepentiste,2009,female,instrumental,female,male,female,male,female,male
+357314,male,ProyectoT | ProyectoT | Vuelve a Mi,2009,female,instrumental,female,male,instrumental,instrumental,female,instrumental
+357330,male,ProyectoT | ProyectoT | No Me Digas Que No,2009,female,instrumental,male,female,male,female,female,female
+357361,male,ProyectoT | ProyectoT | Dura Dura,2009,female,instrumental,female,female,female,female,female,instrumental
+357365,male,ProyectoT | ProyectoT | Me Equivoque,2009,female,instrumental,female,female,male,female,female,female
+357385,male,ProyectoT | ProyectoT | Todo Por Necio,2009,female,instrumental,male,male,male,male,male,male
+359653,instrumental,"Roberto Poli | ONCLASSICAL | Chopin - Piano Works | Classical music | Mazurka in c sharp minor, Op. 63 No. 3",2009,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+359664,instrumental,Roberto Poli | ONCLASSICAL | Chopin - Piano Works | Classical music | Largo in E flat major,2009,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+360978,male,The Dada Weatherman | EarthQuakes & Failed Mutations | Black&White Bird,2009,female,instrumental,female,male,female,female,female,female
+364087,male,Fresh Body Shop | The Ugly Army | My Artificial Sun,2009,female,male,instrumental,male,instrumental,instrumental,male,female
+364840,female,WEXIN | MOVE 2 THE BEAT - Part 2 | Give Me The Bass,2009,female,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+376419,instrumental,DANIEL H | Rainbow of the night | To you my Love ,2009,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+376422,instrumental,DANIEL H | Rainbow of the night | Lost in the Fog ,2009,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+389520,instrumental,Blik | 2004 | Guitar Mix (Rain),2009,female,instrumental,female,instrumental,female,female,female,female
+397582,instrumental,Lulo | COLLAGE | obertura ,2009,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+402055,instrumental,Celestial Aeon Project | Inspiring | Sentimental,2009,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+402056,instrumental,Celestial Aeon Project | Inspiring | Harp,2009,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+415050,group,LA OLLA EXPRESS | PANIC | La Batalla,2009,female,instrumental,male,instrumental,instrumental,instrumental,instrumental,female
+415590,instrumental,HiGhMaS | HiGhMaS | One Bright Morning,2009,male,instrumental,female,female,female,female,female,female
+415596,instrumental,HiGhMaS | HiGhMaS | Since our Childout (Feat Diazel),2009,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+415597,instrumental,HiGhMaS | HiGhMaS | Rythm's Life,2009,female,male,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+416358,instrumental,WEXIN | FRENCH RIVIERA | My Love Is For Real,2009,female,instrumental,female,instrumental,instrumental,instrumental,instrumental,female
+437792,male,entheos | entheos | Sunlight_m,2009,female,instrumental,instrumental,male,instrumental,instrumental,instrumental,instrumental
+437793,instrumental,entheos | entheos | Zoning_m,2009,female,instrumental,female,instrumental,female,instrumental,instrumental,female
+437795,group,entheos | entheos | Everything_m,2009,female,instrumental,male,female,female,female,male,female
+450989,male,Fresh Body Shop | Doctor X | Can't Get Enough,2009,male,instrumental,female,instrumental,female,instrumental,instrumental,female
+457078,female,Dazie Mae | Velvet Dress & Stockings | Drink Beer (Till The Day That I Die),2009,male,instrumental,female,instrumental,female,female,instrumental,female
+457080,group,Dazie Mae | Velvet Dress & Stockings | Paris To London & Back,2009,female,instrumental,female,male,female,male,female,female
+457113,female,Dazie Mae | Velvet Dress & Stockings | Married to a Chelsea Supporter,2009,female,instrumental,female,male,female,female,female,female
+457118,female,Dazie Mae | Velvet Dress & Stockings | Move On,2009,female,instrumental,female,male,female,male,male,female
+457119,female,Dazie Mae | Velvet Dress & Stockings | Miss she Spends,2009,female,instrumental,female,male,female,female,female,female
+457120,female,Dazie Mae | Velvet Dress & Stockings | Sofa,2009,female,instrumental,male,male,male,male,male,male
+457126,group,Dazie Mae | Velvet Dress & Stockings | The Very Opposite Of My Husband,2009,female,male,male,male,female,male,male,female
+458252,male,Yann Keran | Le vers solitaire | Demi-lune,2009,male,male,group,male,female,male,male,female
+461012,instrumental,Oleg Serkov | Epoch Symbol | Way Of Warrior,2009,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+461015,instrumental,Oleg Serkov | Epoch Symbol | Light Inside,2009,female,instrumental,male,instrumental,male,instrumental,instrumental,male
+461017,instrumental,Oleg Serkov | Epoch Symbol | Black Wings,2009,female,instrumental,female,instrumental,instrumental,instrumental,instrumental,female
+461018,group,Oleg Serkov | Epoch Symbol | I still remember...,2009,male,instrumental,group,instrumental,group,instrumental,instrumental,instrumental
+500964,instrumental,WEXIN | TIME IS NOW | Seven Days (Original Edit),2010,male,male,instrumental,instrumental,instrumental,instrumental,instrumental,male
+510028,male,Jemex | Square 1 | Dance Till Day (Dream Mix),2010,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+510853,female,The Poetize Code | Sonora [album] | Poetize Code - Flowers Language,2010,female,male,female,instrumental,female,female,female,female
+579644,male,Fresh Body Shop | Director's Cut | Words Of Happiness,2010,female,male,instrumental,female,instrumental,female,male,female
+592180,instrumental,Vladimir Sterzer | Timeless Piano Dreams | Winter Dreams,2010,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+599221,instrumental,Jahzzar | Smoke Factory | Circles,2010,male,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,male
+599226,instrumental,Jahzzar | Smoke Factory | I need,2010,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,male
+617335,group,DON VALDES | Dans mon coeur | Les Kings de ce Royaume (feat. Jah Children),2010,female,female,female,male,female,female,female,female
+636014,male,The Dada Weatherman | Itchy Hitchhiker | Owl On The Oak Tree,2010,female,instrumental,female,male,female,male,female,female
+642166,male,Icon Girl Pistols | Crushed Beneath The Wheels | Crushed Beneath The Wheels,2010,female,group,instrumental,male,instrumental,instrumental,male,male
+654631,instrumental,Alexandr Ossipov production music | Listen To the Cave Water | Listen To the Cave Water,2010,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+667013,male,Ben5bass | Darnétal funk | Freedom,2010,female,instrumental,female,instrumental,female,female,instrumental,instrumental
+686756,instrumental,Jazzymuté | Jazzymuté - 1 | Agent double zéro,2010,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+686757,instrumental,Jazzymuté | Jazzymuté - 1 | Zinedine Tzigane,2010,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+700220,female,Pianochocolate | AQUARELLE | Jean Honeymoon - Bang Bang (Pianochocolate Remix),2010,female,instrumental,female,instrumental,female,instrumental,female,female
+700224,female,Pianochocolate | AQUARELLE | Marga Sol - Goodbye (Pianochocolare Remix),2010,female,instrumental,female,male,female,female,female,female
+723360,group,Vagos Permanentes | Montando la comedia | Tangoegká,2011,female,instrumental,instrumental,male,instrumental,male,male,male
+727905,instrumental,Celestial Aeon Project | Corporate | Inspiration,2011,male,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+741317,male,Fresh Body Shop | Bring Me Down | Bring Me Down,2011,female,female,instrumental,male,instrumental,instrumental,female,male
+752758,instrumental,Fabio Confalone | ESCALATE | ESCALATE,2011,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+785415,instrumental,Löhstana David | Folk & Acoustic | Cerises - INSTRUMENTAL VERSION,2011,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+785423,group,Löhstana David | Folk & Acoustic | Demain je change de vie - INSTRUMENTAL VERSION,2011,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,male
+785426,instrumental,Löhstana David | Folk & Acoustic | Petit talibé - INSTRUMENTAL VERSION,2011,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,female
+785434,instrumental,Löhstana David | Folk & Acoustic | Quand je serai grand - INSTRUMENTAL VERSION ,2011,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+785436,instrumental,Löhstana David | Folk & Acoustic | T'empailler toute nue - INSTRUMENTAL VERSION ,2011,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+786935,male,Freeky Cleen & Dickey F | Double Feature | FEELS LIKE RAIN,2011,male,female,female,male,male,male,female,female
+786939,male,Freeky Cleen & Dickey F | Double Feature | WALKING CANE,2011,female,instrumental,instrumental,male,instrumental,instrumental,instrumental,female
+862390,instrumental,Libra Makowski | Drum Your Life | Morning traffic,2011,male,instrumental,female,female,female,female,female,female
+865116,instrumental,Julien Allioux | The life | Funeral day,2011,male,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,female
+882462,male,Freeky Cleen & Dickey F | Breezes Of Old | If My Soul,2011,male,female,male,male,male,male,male,female
+907121,female,Evgeny Emelyanov | Russian Poetry | Юлия Гридасова - Записки памяти,2012,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+941154,male,The Dada Weatherman | Two | Undercover Man,2012,female,instrumental,male,male,male,male,male,instrumental
+945193,female,Disconauts Music Production | Ibiza Summer Feelings | You Are My Everything,2012,female,male,instrumental,instrumental,instrumental,instrumental,instrumental,female
+945196,instrumental,Disconauts Music Production | Ibiza Summer Feelings | Bright Light,2012,female,female,instrumental,instrumental,instrumental,instrumental,instrumental,female
+957450,instrumental,Löhstana David | Soft & Slow 2 | Une mélodie douce INSTRUMENTAL,2012,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,female
+957462,instrumental,Löhstana David | Soft & Slow 2 | Ma Maya Zu INSTRUMENTAL,2012,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+957463,instrumental,Löhstana David | Soft & Slow 2 | Bossa Jazz,2012,female,instrumental,female,instrumental,instrumental,instrumental,instrumental,female
+959153,instrumental,Dave Imbernön | Tears & Other Things | First Tear,2012,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+973498,male,Freeky Cleen & Dickey F | South Of Pearly Gates | Sky Is Low,2012,male,instrumental,female,male,female,female,female,female
+973503,male,Freeky Cleen & Dickey F | South Of Pearly Gates | Real Thing,2012,female,instrumental,female,male,male,male,male,male
+981782,male,Löhstana David | Pour Noël | Pour Noel,2012,female,instrumental,female,male,female,female,female,instrumental
+986583,male,Löhstana David | Du Soir Au matin | Le cadeau,2012,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+986589,male,Löhstana David | Du Soir Au matin | Le petit chaperon rose,2012,female,group,male,male,female,male,male,instrumental
+1009671,male,Fresh Body Shop | Wizard | Wizard,2013,female,instrumental,female,male,instrumental,female,female,instrumental
+1009672,male,Fresh Body Shop | Wizard | Fireballs,2013,female,instrumental,female,instrumental,female,instrumental,instrumental,instrumental
+1009673,male,Fresh Body Shop | Wizard | Endless Hours,2013,female,instrumental,instrumental,female,instrumental,instrumental,instrumental,instrumental
+1009674,male,Fresh Body Shop | Wizard | Burning Sky,2013,male,instrumental,female,female,male,female,female,female
+1011643,group,Kingston Blues | Sailin' | Daily Routine,2013,female,instrumental,female,male,instrumental,male,male,instrumental
+1014963,female,Sundayers | Impulsos | Never We´ll Be In,2013,female,instrumental,female,male,female,female,female,female
+1036435,female,Sweet Play | Across The Sky | FLIGHT,2013,female,instrumental,female,male,female,female,female,female
+1036934,male,Fresh Body Shop | Rainbow Stone (single) | Rainbow Stone,2013,female,instrumental,male,female,male,male,male,male
+1051193,female,Jill Zimmerman | Earthbound | Stranger,2013,female,instrumental,male,male,male,male,male,instrumental
+1051195,female,Jill Zimmerman | Earthbound | One Match,2013,female,instrumental,female,female,female,female,female,female
+1051196,female,Jill Zimmerman | Earthbound | Earthbound,2013,male,instrumental,female,female,female,female,female,female
+1051197,female,Jill Zimmerman | Earthbound | Yosemite,2013,group,instrumental,female,female,female,female,female,female
+1051198,female,Jill Zimmerman | Earthbound | Tunnel Vision,2013,female,instrumental,female,instrumental,female,female,female,female
+1051201,female,Jill Zimmerman | Earthbound | Show Me,2013,female,instrumental,female,female,instrumental,female,female,instrumental
+1051203,female,Jill Zimmerman | Souls to Fuse | The Letter,2013,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+1051207,female,Jill Zimmerman | Souls to Fuse | No More,2013,female,instrumental,female,female,female,female,female,instrumental
+1054342,male,Löhstana David | Le petit album de l'été | Imbécile heureux,2013,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,female
+1057890,female,Miguel Perez Sancho | Bajo el séptimo cielo | Bajo el séptimo cielo,2013,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+1061369,instrumental,Fresh Body Shop | Instrumentals | Don't Care Anymore,2013,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,female
+1062831,instrumental,Jahzzar | type_your_name_here | type_your_name_here (shortcut),2013,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,male
+1063331,instrumental,Mike Allen | Alpha | Xanadu,2013,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,female
+1063332,instrumental,Mike Allen | Alpha | Give It Up for the Id,2013,female,male,instrumental,instrumental,instrumental,instrumental,instrumental,female
+1066198,instrumental,Udo Vismann | Change (Original Edition) | Romantic Samba,2013,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+1066204,instrumental,Udo Vismann | Change (Original Edition) | Moment of Truth,2013,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+1067070,male,Radio Noiseville | Consciousness splinters | Атомное Сердце,2013,female,instrumental,instrumental,male,instrumental,female,female,female
+1078392,male,The Dada Weatherman | Birthnight | Circle of Sea,2013,female,group,female,male,female,female,female,female
+1089085,instrumental,Esther Garcia | Incidental Emotion | The Hidden Door,2013,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,female
+1093792,male,JekK | One Day | Day Free,2014,female,instrumental,female,female,female,female,female,instrumental
+1093793,male,JekK | One Day | Love you Don't go,2014,female,female,instrumental,instrumental,instrumental,instrumental,female,instrumental
+1093794,male,JekK | One Day | Five O'Clock,2014,group,instrumental,male,female,male,male,male,female
+1093795,male,JekK | One Day | Reach the Stars,2014,male,instrumental,male,male,male,male,female,male
+1100002,male,LES PÊCHEURS DE LUNE | 2014 | TIC TAC,2014,female,instrumental,male,instrumental,male,instrumental,instrumental,male
+1107251,male,Jonay | On The Beach | On The Beach,2014,female,instrumental,female,female,male,female,female,female
+1108553,instrumental,Xytum | Do Not Blink EP | Intro,2014,female,instrumental,female,instrumental,female,instrumental,instrumental,female
+1116697,instrumental,The Clone Dj | Everybody Move Your Body | Deep Is My House,2014,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+1119019,group,The Verandas | Deep Down | The Biggest Thing,2014,male,male,female,male,male,male,male,female
+1119024,male,The Verandas | Deep Down | Lemon Pop,2014,female,instrumental,male,male,male,male,male,male
+1136142,male,Skabrot | No Ska Today | No Ska Today,2014,male,instrumental,female,male,female,female,female,female
+1138689,male,Löhstana David | Poils de chiens | Elle avait pas les yeux noirs,2014,female,instrumental,male,female,male,male,female,male
+1138691,male,Löhstana David | Poils de chiens | Dans ma peau,2014,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+1143012,instrumental,ADDICT SOUND | Happy song for video and advertising | The sun gives (remastered edition),2014,group,male,instrumental,instrumental,instrumental,instrumental,instrumental,female
+1143013,instrumental,ADDICT SOUND | Happy song for video and advertising | I feel good,2014,female,male,instrumental,instrumental,instrumental,instrumental,instrumental,male
+1143152,instrumental,Dave Imbernön | Pequeños momentos musicales | Notas Sueltas I (Tristeza),2014,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+1156051,group,"Townhouse Woods | How To Fix Everything | Cricket Hymn, Pt. I",2014,female,instrumental,female,male,female,female,female,female
+1156054,male,Townhouse Woods | How To Fix Everything | Deerfield Lake,2014,female,instrumental,female,female,female,female,female,female
+1157358,male,JekK | Dear Dreams | You and Me,2014,female,instrumental,male,male,male,male,male,female
+1157361,group,JekK | Dear Dreams | So Hard,2014,group,instrumental,female,male,female,female,female,female
+1159244,instrumental,THEO ARNISOUND | experiment song's when i sleep | Forever glam,2014,female,male,instrumental,instrumental,instrumental,instrumental,instrumental,male
+1162014,male,STEEP | NEW HORIZONS | It Could Be You,2014,female,instrumental,instrumental,male,instrumental,instrumental,male,female
+1162021,male,STEEP | NEW HORIZONS | New Horizons,2014,female,instrumental,female,female,female,female,female,female
+1162697,instrumental,ADDICT SOUND | happy songs for video and advertising vol2 | No stress,2014,female,male,group,instrumental,male,instrumental,instrumental,male
+1169701,male,Fresh Body Shop | Anything But You | Another Life,2014,female,instrumental,instrumental,female,instrumental,female,male,male
+1169710,instrumental,"OnClassical | Piano Favourites | Ravel, M.: Pavane pour un infante defunte, M. 19",2014,male,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+1169718,instrumental,"OnClassical | Piano Favourites | Mozart, W.A.: Sonata No. 16 in C Major, K. 545 - II. Andante",2014,male,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+1169719,instrumental,"OnClassical | Piano Favourites | Debussy, C.: Deux arabesques, L 66 - I. Andantino con moto",2014,male,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+1169720,instrumental,"OnClassical | Piano Favourites | Scriabin, A.: Trois morceaux, Op. 2 - I. Étude in C-sharp Minor",2014,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+1169728,instrumental,"OnClassical | Piano Favourites | Chopin, F.: Nocturne No. 2 in E-flat Major, Op. 9, No. 2",2014,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+1169731,instrumental,"OnClassical | Piano Favourites | Grieg, E.: Lyric Pieces, Op. 43 - V. Erotic",2014,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+1169734,instrumental,"OnClassical | Piano Favourites | Brahms, J.: 16 Waltzes, Op. 39 - XV. (A major) 'Lullaby' (Ninna Nanna)",2014,male,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+1170729,group,Sleeping Sky | Holy night | Sweeter the bells never sound,2014,female,instrumental,female,female,female,female,female,female
+1176656,instrumental,Evgeny Teilor | Nutshell | Oceans,2014,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+1176716,instrumental,Evgeny Teilor | Nutshell | A Morning In The City,2014,male,male,female,instrumental,female,instrumental,instrumental,instrumental
+1180601,instrumental,Cartel | Major Label Style Beats: Volume 2 | Drake2,2014,female,instrumental,female,instrumental,instrumental,instrumental,instrumental,instrumental
+1187965,female,Anny Sky | New Trend | New Trend,2015,female,instrumental,female,female,female,female,female,female
+1187970,female,Anny Sky | New Trend | All Rights Reserved,2015,female,instrumental,female,male,female,female,female,female
+1187978,female,Anny Sky | New Trend | Chikki Boom,2015,female,instrumental,female,male,female,female,female,female
+1188123,female,Anny Sky | New Trend | All Rights Reserved (Denka Radio Mix),2015,male,instrumental,female,male,female,female,female,female
+1194312,male,The Dada Weatherman | folK.itUp | Lost To Me,2015,female,instrumental,female,female,female,female,female,female
+1194314,group,The Dada Weatherman | folK.itUp | Wonder Girl,2015,male,instrumental,female,male,female,male,male,female
+1194316,group,The Dada Weatherman | folK.itUp | Fuck It,2015,female,male,female,instrumental,female,female,female,female
+1209452,instrumental,ADDICT SOUND | Song for video and advertising vol 3 | Happy whistling(advertising),2015,group,male,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+1210725,instrumental,Fresh Body Shop | One Step Away (Remastered) | Wizard (instrumental),2015,male,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,male
+1211601,male,Joshua Ticsay | What You Seek - The Unplugged EP | Breathe,2015,female,instrumental,male,male,male,male,male,female
+1211603,group,Joshua Ticsay | What You Seek - The Unplugged EP | He Knows,2015,female,male,female,male,female,male,male,male
+1211605,female,Joshua Ticsay | What You Seek - The Unplugged EP | If I Could Just,2015,female,male,female,male,female,male,male,female
+1218780,female,ASEA | ASEA EP | Born to Be Free,2015,male,instrumental,female,male,female,female,female,female
+1221997,instrumental,Esther Garcia | Son de la Tierra Lejana | Ancient Forest,2015,male,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,female
+1245183,instrumental,Ton in Ton | Al Cante | Under The Stars,2015,female,instrumental,female,instrumental,male,instrumental,instrumental,female
+1245185,instrumental,Ton in Ton | Al Cante | Thinking Of You,2015,female,male,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+1245191,instrumental,Ton in Ton | Al Cante | Daydream,2015,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,male
+1245192,female,Ton in Ton | Al Cante | Sun and Friends,2015,female,instrumental,instrumental,instrumental,male,instrumental,instrumental,instrumental
+1254633,male,Color Out | Color Out EP | By Your Side,2015,female,instrumental,male,male,male,male,male,male
+1254634,male,Color Out | Color Out EP | Winter Chill,2015,female,instrumental,male,female,male,male,male,female
+1254636,male,Color Out | Color Out EP | Pretense,2015,female,instrumental,female,male,female,female,female,female
+1267288,instrumental,ADDICT SOUND | Everything is good | Everything is good,2015,female,instrumental,female,instrumental,instrumental,instrumental,instrumental,female
+1294740,male,Fresh Body Shop | White Silk Toga | White Silk Toga,2015,female,instrumental,instrumental,female,instrumental,instrumental,instrumental,instrumental
+1294750,male,Fresh Body Shop | White Silk Toga | Stainless Steel Machine,2015,female,instrumental,instrumental,male,instrumental,instrumental,instrumental,instrumental
+1307834,male,The Dada Weatherman | Traveling Songs | Free Your Mind,2016,male,instrumental,female,female,female,female,female,female
+1307838,male,The Dada Weatherman | Traveling Songs | Rocking Out,2016,female,male,instrumental,female,instrumental,female,female,female
+1312858,male,MOAVE | Ambición | Canto del ayer,2016,female,instrumental,male,male,male,male,male,male
+1318704,instrumental,ADDICT SOUND | A Good Day! | A good day!,2016,female,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental,female
+1320571,male,The Man In Washington | Sea Green | I Cant See You For The Coils,2016,female,instrumental,male,male,male,male,male,male
+1320573,male,The Man In Washington | Sea Green | Every Type Of Cloud,2016,female,instrumental,male,male,male,male,male,male
+1327741,male,diego Noar | Um lado vasto | Pra_Onde_e_Que_eu_Vou_,2016,female,instrumental,female,female,female,female,female,female
+1343442,instrumental,Airmusic | Nature songs | Nature songs,2016,female,female,instrumental,instrumental,instrumental,instrumental,instrumental,female
+1350313,instrumental,FiluAndDina | Folk Festival | Folk Festival,2016,female,instrumental,instrumental,instrumental,female,instrumental,instrumental,instrumental
+1350957,instrumental,FiluAndDina | Kids | Kids,2016,female,instrumental,female,instrumental,female,instrumental,instrumental,female
+1353972,instrumental,Mickael Huchet | Samba de Brazil | Samba loop,2016,female,instrumental,female,instrumental,instrumental,instrumental,instrumental,male
+1357005,male,The Vow | Bluer than you | Out Of My Time,2016,female,male,female,male,female,male,male,female
+1357117,male,The Vow | For a dreamer | Holy Roller,2016,female,instrumental,female,male,female,male,male,female
+1357118,male,The Vow | For a dreamer | A Walk In The Sunshine,2016,female,instrumental,female,instrumental,female,instrumental,instrumental,female
+1357128,male,The Vow | For a dreamer | Back To Monday,2016,female,instrumental,female,instrumental,male,instrumental,instrumental,female
+1357132,male,The Vow | For a dreamer | As The Crow Flies,2016,female,instrumental,male,male,male,male,male,male
+1366203,group,Shiva | 7even Floors | Ain' t just the pride,2016,female,male,female,female,female,female,male,female
+1367174,instrumental,Grace Valhalla | Fomo | Spirit Tracks,2016,female,group,instrumental,instrumental,instrumental,instrumental,instrumental,female
+1386744,instrumental,Steve Raphael | Summer Lounge | Sunflower,2016,female,instrumental,male,instrumental,instrumental,male,male,male
+1402647,instrumental,"Esther Garcia | Classical Masterpieces | Aquarium, Le Carnaval des Animaux (Camille Saint-Saëns)",2016,male,group,instrumental,instrumental,instrumental,instrumental,instrumental,instrumental
+1418302,female,"Kara Square | Anywhere, Everywhere | Anywhere, Everywhere",2017,female,instrumental,female,female,female,female,male,female
